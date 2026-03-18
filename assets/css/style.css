@@ -1413,6 +1413,6 @@ video {
 
 @media (max-width: 768px) {
   .navbar-brand .logo {
-    margin-left: -15px;
+    margin-left: -25px;
   }
 }
