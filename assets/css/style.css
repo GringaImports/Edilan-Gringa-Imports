@@ -1410,3 +1410,9 @@ video {
     border-radius: 12px;
   }
 }
+
+@media (max-width: 768px) {
+  .navbar-brand .logo {
+    margin-left: -15px;
+  }
+}
