@@ -1413,12 +1413,14 @@ video {
 
 @media (max-width: 768px) {
   .navbar-brand {
-    width: 100%;
-    display: flex;
-    justify-content: center;
+    width: 100% !important;
+    display: flex !important;
+    justify-content: center !important;
+    margin: 0 auto !important;
   }
 
   .navbar-brand .logo {
-    margin: 0 auto;
+    margin: 0 auto !important;
+    display: block;
   }
 }
