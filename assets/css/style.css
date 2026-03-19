@@ -1424,3 +1424,10 @@ video {
     display: block;
   }
 }
+
+.hero__v6 .hero-subtitle {
+  background: #000000 !important;
+  color: #ff7e09 !important;
+  padding: 5px 12px;
+  border-radius: 7px;
+}
