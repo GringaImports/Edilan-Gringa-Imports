@@ -1424,3 +1424,7 @@ video {
     display: block;
   }
 }
+
+.hero-subtitle-importador {
+  color: #ffffff !important;
+}
